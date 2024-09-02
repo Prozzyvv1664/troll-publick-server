@@ -1,0 +1,54 @@
+ Anarchy Stealer | Information
+Date: 2024-01-15 1:57:44 ÖÖ
+System: Windows 11 Home (64 Bit)
+CompName: Q166VRB5
+Username: efe
+Language: 🇹🇷 tr-TR
+Antivirus: Windows Defender.
+
+ *Hardware:*
+CPU: 12th Gen Intel(R) Core(TM) i3-12100F
+GPU: AMD Radeon RX 6600
+RAM: 8004MB
+Power: NoSystemBattery (1%)
+Screen: 1920x1080
+Webcams count: 0
+
+ *Browsers:*
+   ∟  Passwords: 72
+   ∟  CreditCards: 0
+   ∟  Cookies: 0
+   ∟  AutoFill: 30
+   ∟  History: 516
+   ∟  Bookmarks: 13
+   ∟  Downloads: 162
+   ∟  Wallet Extensions: 1
+
+ *Network:* 
+Gateway IP: 192.168.1.1
+Internal IP: 192.168.1.102
+External IP: 78.163.98.98
+BSSID: 10:27:f5:f0:51:c8
+
+   -  *Banking services* (No data)
+   -  *Cryptocurrency services* (No data)
+
+ *Software:*
+   ∟  Wallets: 0
+   ∟  FTP hosts: 0
+   ∟  VPN accounts: 0
+   ∟  Pidgin accounts: 0
+   ∟  Outlook accounts False
+   ∟  Telegram sessions False
+   ∟  Skype session False
+   ∟  Discord token False
+   ∟  Element session False
+   ∟  Signal session False
+   ∟  Tox session False
+   ∟  Steam session True
+   ∟  Uplay session False
+   ∟  BattleNET session False
+
+ *Device:*
+   ∟  Windows product key True
+   ∟  Wifi networks: 0
